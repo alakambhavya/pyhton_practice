@@ -99,6 +99,7 @@ print(fruits)
 fruits.remove("banana")
 print(fruits)
 
+print("__________________________________")
 #task10:Write a program to rotate list elements using slicing.
 std=[1,2,3,4,5,6,7,8,9,10,"bhavya",387,'suchi',2390]
 print(std[-1::-1])
@@ -112,8 +113,6 @@ print(data[-33:-42:-1])
 print(type(data))
 print(data[-43:-51:-1])
 print(type(data))
-
-print("_______________________________________________")
 
 
 
