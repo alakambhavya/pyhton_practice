@@ -42,5 +42,14 @@ print(product_1>=product_2)
 print(product_1>=product_3)
 print(product_2>=product_3)
 
+print("_________________________")
+
+#build a string indexing application.
+name="alakam bhavya sree"
+print(name[10])
+print(name[7])
+print(name[5])
+print(name[14])
+
 
 
