@@ -17,6 +17,30 @@ add=emp_1+bonus
 print(add)
 print(type(add))
 
+print("__________________")
+
+#write a comparison program for product prices.
+product_1=30
+product_2=80
+product_3=30
+print(product_1==product_3)
+print(product_1==product_2)
+print(product_2==product_3)
+print(product_1!=product_2)
+print(product_1!=product_3)
+print(product_2!=product_3)
+print(product_1<product_2)
+print(product_1<product_3)
+print(product_2<product_3)
+print(product_1>product_2)
+print(product_1>product_3)
+print(product_2>product_3)
+print(product_1<=product_2)
+print(product_1<=product_3)
+print(product_2<=product_3)
+print(product_1>=product_2)
+print(product_1>=product_3)
+print(product_2>=product_3)
 
 
 
