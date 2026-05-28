@@ -67,6 +67,28 @@ print(type(data))
 print(data[-43:-51:-1])
 print(type(data))
 
+print("_________________________________")
+
+#task7:Build a marks update system using assignment operators.
+std="bhavya"
+marks=79
+marks=5
+print(marks)
+marks+=9
+print(marks)
+marks-=4
+print(marks)
+marks*=8
+print(marks)
+marks/=2
+print(marks)
+marks//=6
+print(marks)
+marks%=7
+print(marks)
+marks**=3
+print(marks)
+
 
 
 
